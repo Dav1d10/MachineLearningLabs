@@ -17,3 +17,7 @@ Both projects were executed using Kaggle's CPU environment.
 
 - **Project01-HistoricalDecadeTextClassificationTFIDF.ipynb**: Classifies Spanish historical texts by decade using TF-IDF representations, weighted feature unions, voting classifiers, a specialist classifier, cross-validation, and error analysis.
 - **Project02-HistoricalDecadeTextClassificationTransformerEnsemble.ipynb**: Extends historical-decade text classification with TF-IDF, RoBERTa-BNE/BERTIN transformers, Spanish historical stylistic features, data augmentation, grouped cross-validation, and ensemble optimization.
+
+### Collaborators
+
+- Isabella Naranjo
